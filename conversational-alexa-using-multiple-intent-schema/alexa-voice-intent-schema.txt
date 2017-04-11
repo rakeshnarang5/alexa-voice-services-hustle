@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "action",
+          "type": "ACTION"
+        },
+		{
+			"name": "scenename",
+			"type": "SCENENAME"
+		},
+        {
+          "name": "device",
+          "type": "DEVICE"
+        },
+        {
+          "name": "location",
+          "type": "LOCATION"
+        }
+      ],
+      "intent": "HomeAutomation"
+    }
+  ]
+}

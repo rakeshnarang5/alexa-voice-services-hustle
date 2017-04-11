@@ -1,0 +1,11 @@
+U:	Alexa, interactive lighting model
+A: 	Hi! This is your interactive lighting model. What do you want to do?
+U:	I want to create a scene.
+A:	Sure. What do you want to name the scene?
+U:	holiday theme party
+A:	Which location do you want to add to the scene {scenename}?
+U:	Bedroom.
+A:	Which devices do you want to include to this scene {scenename}?
+U:	tubelight, lightbulb, and ceiling fan
+A:	Ok. The scene named {scenename} has been created sucessfully. It has the following devices of {location} in it,
+tubelight, lightbulb, and ceiling fan.

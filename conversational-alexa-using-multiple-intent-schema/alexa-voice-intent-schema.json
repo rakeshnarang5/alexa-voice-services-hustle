@@ -1,0 +1,41 @@
+{
+    "intents":
+    [
+        {
+            "intent": "NameOfTheAction",
+            "slots": [
+                {
+                    "name": "ActionSetting",
+                    "type": "ACTION"
+                }
+            ]
+        },
+        {
+            "intent": "NameOfTheScene",
+            "slots": [
+                {
+                    "name": "SceneNameSetting",
+                    "type": "SCENENAME"
+                }
+            ]
+        },
+        {
+            "intent": "NameOfTheDevice",
+            "slots": [
+                {
+                    "name": "DeviceNameSetting",
+                    "type": "DEVICE"
+                }
+            ]
+        },
+        {
+            "intent": "NameOfTheLocation",
+            "slots": [
+                {
+                    "name": "LocationSetting",
+                    "type": "LOCATION"
+                }
+            ]
+        }
+    ]
+}

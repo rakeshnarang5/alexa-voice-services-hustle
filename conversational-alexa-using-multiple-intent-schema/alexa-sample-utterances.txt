@@ -1,0 +1,7 @@
+NameOfTheAction {ActionSetting} a scene
+
+NameOfTheScene name my scene {SceneNameSetting}
+
+NameOfTheDevice add {DeviceNameSetting} to the scene
+
+NameOfTheLocation add {LocationSetting} to the scene
